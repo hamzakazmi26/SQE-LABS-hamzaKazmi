@@ -1,2 +1,2 @@
-# SQE-LABS-hamzaKazmi
-SQE Lab
+# sqe-labs-sulmanfarooqq
+Software Quality Engineering Lab
