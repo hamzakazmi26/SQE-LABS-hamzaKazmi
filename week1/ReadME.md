@@ -1,35 +1,29 @@
-# 🚀 SQE Lab 1: String Utilities Module (Graded Task)
+## 🚀 SQE Lab 1: String Utilities Module (Graded Task)## 👤 Student Information
+Name: Hamza kazmi
+Registration ID: FA23-BSE-063
+Course: Software Quality Engineering (SQE)
+University: Mirpur University of Science and Technology (MUST)
+------------------------------
+## 🛠️ Project Overview
+This repository features a custom String Utilities Module (string_utils.py) designed with six fundamental text manipulation tools. To guarantee software reliability, the code is backed by a robust Pytest framework that specifically addresses edge cases and implements professional error handling.
+## 🔍 Implemented Functions:
 
-## 👤 Student Information
-**Name:** Hamza kazmi
-**Registration ID:** FA23-BSE-063
-**Course:** Software Quality Engineering (SQE)  
-**University:** Mirpur University of Science and Technology (MUST)
+* Count Vowels: Calculates the total number of vowels (a, e, i, o, u) regardless of case.
+* Reverse String: Flips the character order of the provided input.
+* Is Palindrome: Identifies palindromic sequences while disregarding capitalization and spacing.
+* Word Count: Computes the total number of words based on whitespace separation.
+* Capitalize Words: Converts the initial letter of every word to uppercase.
+* Remove Duplicates: Filters out redundant, consecutive identical characters.
 
----
+------------------------------
+## 🧪 Test Execution Results
+I have developed and executed 19 distinct test cases to validate the logic of all six utility functions.
+------------------------------
+## 📈 Code Coverage
+The project has successfully reached 100% Statement Coverage for the string_utils.py source file.
 
-## 📝 Project Overview
-This project implements a **String Utilities Module** (`string_utils.py`) with 6 core text-processing functions. The implementation is verified using a comprehensive **Pytest** suite ensuring reliability, edge case handling, and professional exception management.
+Note: A detailed execution summary is available in the repository as a text-based coverage report.
+View Coverage Report
 
-### Implemented Functions:
-* **Count Vowels:** Returns count of (a, e, i, o, u) - Case-insensitive.
-* **Reverse String:** Reverses the input string.
-* **Is Palindrome:** Checks for palindromes, ignoring spaces and case.
-* **Word Count:** Counts words separated by whitespace.
-* **Capitalise Words:** Capitalizes the first letter of every word.
-* **Remove Duplicates:** Removes consecutive repeating characters.
+------------------------------
 
----
-
-## ✅ Test Execution Results
-I have implemented **19 individual test cases** covering all 6 functions. 
-
-![Test Results](./terminal.png)
-
----
-
-## 📊 Code Coverage
-Achieved **100% Statement Coverage** for `string_utils.py`.
-
-> **Note:** The full execution report has been generated and saved as a text file in the repository.
-> [View Coverage Report](./coverage_report.txt)
