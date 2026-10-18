@@ -1,2 +1,2 @@
-# sqe-labs-sulmanfarooqq
+# sqe-labs-hamzakazmi
 Software Quality Engineering Lab
